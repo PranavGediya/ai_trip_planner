@@ -1,0 +1,9 @@
+.phoness{
+    padding: 8px 16px; /* Equivalent to px-4 py-2 */
+    border: 1px solid #D1D5DB; /* Equivalent to border-gray-300 */
+    border-radius: 0.5rem; /* Equivalent to rounded-lg */
+    outline: none; /* Equivalent to focus:outline-none */
+}
+.phoness:focus {
+    border-color: #3B82F6; /* Equivalent to focus:border-blue-500 */
+}
